@@ -1,0 +1,294 @@
+* {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+
+}
+
+#wrapper {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrapperzwei {
+    width: 58%;
+    height: 100%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrapperdrei {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrappervier {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrapperfunf {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrappersechs {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrappersieben {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+#wrapperacht {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrapperneun {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+#wrapperzehn {
+    width: 58%;
+    margin: 0% 21% 0% 21%;
+    background-color: white;
+}
+
+.text-left {
+    font-size: 150%;
+    width: 20%;
+    float: left;
+    padding: 5% 0% 3% 13%;
+}
+
+.text-right {
+    font-size: 150%;
+    float: left;
+    width: 22%;
+    padding: 5% 2% 3% 5%;
+}
+
+.textzwei-left {
+    float: left;
+    font-size: 150%;
+    padding: 2% 5% 0% 13%;
+    background-color: white;
+}
+
+.textzwei-right {
+    float: left;
+    font-size: 150%;
+    padding: 2% 15% 0% 5%;
+    background-color: white;
+}
+
+.textdrei-left {
+    float: left;
+    font-size: 150%;
+    padding: 2% 5% 0% 13%;
+    background-color: white;
+}
+
+.textdrei-right {
+    float: left;
+    font-size: 150%;
+    padding: 2% 23% 0% 3%;
+    background-color: white;
+}
+
+.textvier-left {
+    float: left;
+    font-size: 150%;
+    padding: 2% 5% 0% 13%;
+    background-color: white;
+}
+
+.textvier-right {
+    float: left;
+    font-size: 150%;
+    padding: 2% 17% 0% 9%;
+    background-color: white;
+}
+
+.textfunf-left {
+    float: left;
+    font-size: 130%;
+    padding: 2% 3% 0% 13%;
+    background-color: white;
+}
+
+.textfunf-right {
+    float: left;
+    font-size: 150%;
+    padding: 2% 16% 0% 2%;
+    background-color: white;
+}
+
+.text {
+    
+    background-color: white;
+
+}
+.musterimg {
+    float: right;
+    padding: 0% 15% 0% 0%;
+    background-color: white;
+
+}
+#datenbank {
+    font-size: 120%;
+    width: 30%;
+    padding: 2% 0% 0% 7%;
+    background-color: white;
+}
+#title {
+    font-size: 150%;
+    padding: 5% 0% 0% 7%;
+    background-color: white;
+}
+h1 {
+    background-color: white;
+}
+h2 {
+    background-color: white;
+}
+.querlinie {
+    border: 2px solid black;
+}
+.querlinie1 {
+    border: 2px solid black;
+    float: right;
+    margin-top: 40px;
+}
+.querlinie2 {
+    border: 2px solid black;
+    float: right;
+    margin-top: 40px;
+}
+
+.querlinie3 {
+    border: 2px solid black;
+    float: right;
+    margin-top: 150px;
+}
+
+.querlinie4 {
+    border: 2px solid black;
+    float: right;
+    margin-top: 40px;
+}
+.querliniehelfte {
+    float: right;
+    padding: 2px;
+    margin-top: 100px;
+}
+
+#beruf {
+    font-size: 120%;
+    width: 30%;
+    padding: 32% 0% 0% 8%;
+    background-color: white;
+  
+}
+
+#ausbildung {
+    font-size: 120%;
+    width: 30%;
+    padding: 32% 0% 0% 8%;
+    background-color: white;
+}
+
+#besondere {
+    font-size: 120%;
+    width: 50%;
+    padding: 20% 0% 0% 8%;
+    background-color: white;
+}
+
+#hobbys {
+    font-size: 120%;
+    width: 50%;
+    padding: 20% 0% 0% 8%;
+    background-color: white;
+}
+
+a {
+    background-color: white;
+}
+
+p {
+    background-color: white;
+    padding: 2% 0% 3% 0%;
+}
+.unorder {
+    background-color: white;
+}
+li {
+    background-color: white;
+}
+#paraeins {
+    padding: 2% 0% 36% 0;
+}
+#parazwei {
+    padding: 2% 0% 35% 0%;
+}
+#paradrei {
+    padding: 2% 0% 35% 0%;
+}
+
+#paravier {
+    padding: 3% 0% 35% 0%;
+}
+#parafunf {
+    padding: 2% 0% 35% 0%;
+}
+#paraacht {
+    padding: 4% 0% 55% 0%;
+}
+#paraneun {
+    padding: 4% 0% 35% 0%;
+}
+
+#parazwolf {
+    padding: 3% 0% 35% 0%;
+}
+
+#paradreizehn {
+    padding: 0% 0% 35% 0%;
+}
+
+#ort {
+    padding: 55% 0% 75% 28%;
+    font-size: 75%;
+}
+
+#sign {
+    padding: 29% 0% 35% 15%;
+    font-size: 75%;
+}
+
+
+
+
+
+
+/*@media screen and (max-width:1024px) { CSS FOR Max WIDTH 1024Px } 
+@media screen and (max-width:768px) { 
+    
+ } 
+@media screen and (max-width:640px) { CSS FOR Max WIDTH 640Px } 
+@media screen and (max-width:480px) { CSS FOR Max WIDTH 480Px } 
+@media screen and (max-width:320px) { 
+
+ }*/
